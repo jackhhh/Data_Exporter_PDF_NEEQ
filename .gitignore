@@ -1,1 +1,3 @@
-neeq/Files
+neeq/
+!/neeq/neeq.py
+!/neeq/sina.py

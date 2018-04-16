@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>62363123-2443-45e9-aaf7-3afc905c83f2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>neeq.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
